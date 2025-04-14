@@ -1,4 +1,8 @@
-# ShuffleCards
-A Javascript test game where you can shuffle some cards with different colors
+# Shuffle Cards Game
 
-Sketch.js is the main javascript file.
+A simple JS game for randomly shuffling colored cards. Built to demonstrate event listeners and DOM manipulation.
+
+## Features
+- Random shuffling logic
+- Color-coded cards
+- Beginner-friendly code
